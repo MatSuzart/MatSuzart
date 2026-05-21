@@ -39,10 +39,24 @@ That little project ended up opening the door to **web development, backend syst
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=vscode,github,postman,vercel,figma,powershell,windows,ubuntu,aws&perline=6)](https://github.com/MatSuzart)
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img alt="VS Code" width="48" src="https://skillicons.dev/icons?i=vscode"><br>VS Code</td>
+    <td align="center"><img alt="GitHub" width="48" src="https://skillicons.dev/icons?i=github"><br>GitHub</td>
+    <td align="center"><img alt="Postman" width="48" src="https://skillicons.dev/icons?i=postman"><br>Postman</td>
+    <td align="center"><img alt="Vercel" width="48" src="https://skillicons.dev/icons?i=vercel"><br>Vercel</td>
+    <td align="center"><img alt="Figma" width="48" src="https://skillicons.dev/icons?i=figma"><br>Figma</td>
+    <td align="center"><img alt="PowerShell" width="48" src="https://skillicons.dev/icons?i=powershell"><br>PowerShell</td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="Windows" width="48" src="https://skillicons.dev/icons?i=windows"><br>Windows</td>
+    <td align="center"><img alt="Ubuntu" width="48" src="https://skillicons.dev/icons?i=ubuntu"><br>Ubuntu</td>
+    <td align="center"><img alt="AWS" width="48" src="https://skillicons.dev/icons?i=aws"><br>AWS</td>
+    <td align="center"><img alt="Render" width="48" src="https://cdn.simpleicons.org/render/46E3B7"><br>Render</td>
+    <td align="center"><img alt="ROS 2" width="48" src="https://cdn.simpleicons.org/ros/22314E"><br>ROS 2</td>
+    <td align="center"><img alt="Apache NiFi" width="48" src="https://cdn.simpleicons.org/apache/CA2133"><br>NiFi</td>
+  </tr>
+</table>
 
 
 ## Projects
