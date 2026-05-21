@@ -25,7 +25,7 @@ That little project ended up opening the door to **web development, backend syst
     <td align="center"><img alt="Node.js" width="48" src="https://skillicons.dev/icons?i=nodejs"><br>Node.js</td>
     <td align="center"><img alt="React" width="48" src="https://skillicons.dev/icons?i=react"><br>React</td>
     <td align="center"><img alt="FastAPI" width="48" src="https://skillicons.dev/icons?i=fastapi"><br>FastAPI</td>
-    <td align="center"><img alt="SQL Server" width="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927"><br>SQL Server</td>
+    <td align="center"><img alt="SQL Server" width="48" src="https://img.icons8.com/color/96/microsoft-sql-server.png"><br>SQL Server</td>
   </tr>
   <tr>
     <td align="center"><img alt="MySQL Workbench" width="48" src="https://skillicons.dev/icons?i=mysql"><br>MySQL Workbench</td>
