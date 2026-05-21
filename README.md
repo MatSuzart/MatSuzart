@@ -17,24 +17,48 @@ That little project ended up opening the door to **web development, backend syst
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=py,ts,js,nodejs,react,fastapi,mysql,postgres,docker,linux,redhat,git,githubactions,bash&perline=7)](https://github.com/MatSuzart)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-017CEE?style=for-the-badge&logo=apache&logoColor=white)
-![Red Hat Linux](https://img.shields.io/badge/Red%20Hat%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img alt="Python" width="48" src="https://skillicons.dev/icons?i=py"><br>Python</td>
+    <td align="center"><img alt="TypeScript" width="48" src="https://skillicons.dev/icons?i=ts"><br>TypeScript</td>
+    <td align="center"><img alt="JavaScript" width="48" src="https://skillicons.dev/icons?i=js"><br>JavaScript</td>
+    <td align="center"><img alt="Node.js" width="48" src="https://skillicons.dev/icons?i=nodejs"><br>Node.js</td>
+    <td align="center"><img alt="React" width="48" src="https://skillicons.dev/icons?i=react"><br>React</td>
+    <td align="center"><img alt="FastAPI" width="48" src="https://skillicons.dev/icons?i=fastapi"><br>FastAPI</td>
+    <td align="center"><img alt="SQL Server" width="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927"><br>SQL Server</td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="MySQL Workbench" width="48" src="https://skillicons.dev/icons?i=mysql"><br>MySQL Workbench</td>
+    <td align="center"><img alt="PostgreSQL" width="48" src="https://skillicons.dev/icons?i=postgres"><br>PostgreSQL</td>
+    <td align="center"><img alt="Docker" width="48" src="https://skillicons.dev/icons?i=docker"><br>Docker</td>
+    <td align="center"><img alt="Linux" width="48" src="https://skillicons.dev/icons?i=linux"><br>Linux</td>
+    <td align="center"><img alt="Red Hat" width="48" src="https://skillicons.dev/icons?i=redhat"><br>Red Hat</td>
+    <td align="center"><img alt="Apache NiFi" width="48" src="https://cdn.simpleicons.org/apache/CA2133"><br>NiFi</td>
+    <td align="center"><img alt="Bash" width="48" src="https://skillicons.dev/icons?i=bash"><br>Bash</td>
+  </tr>
+</table>
 
 
 ## Data and ML
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=opencv&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><img alt="Pandas" width="48" src="https://cdn.simpleicons.org/pandas/150458"><br>Pandas</td>
+    <td align="center"><img alt="scikit-learn" width="48" src="https://cdn.simpleicons.org/scikitlearn/F7931E"><br>scikit-learn</td>
+    <td align="center"><img alt="Streamlit" width="48" src="https://cdn.simpleicons.org/streamlit/FF4B4B"><br>Streamlit</td>
+    <td align="center"><img alt="Jupyter" width="48" src="https://cdn.simpleicons.org/jupyter/F37626"><br>Jupyter</td>
+    <td align="center"><img alt="SQLite" width="48" src="https://cdn.simpleicons.org/sqlite/003B57"><br>SQLite</td>
+    <td align="center"><img alt="Plotly" width="48" src="https://cdn.simpleicons.org/plotly/3F4F75"><br>Plotly</td>
+  </tr>
+  <tr>
+    <td align="center"><img alt="OpenCV" width="48" src="https://cdn.simpleicons.org/opencv/5C3EE8"><br>OpenCV</td>
+    <td align="center"><img alt="YOLO" width="48" src="https://cdn.simpleicons.org/opencv/111111"><br>YOLO</td>
+    <td align="center"><img alt="Jupyter Notebook" width="48" src="https://cdn.simpleicons.org/jupyter/F37626"><br>Notebooks</td>
+    <td align="center"><img alt="NumPy" width="48" src="https://cdn.simpleicons.org/numpy/013243"><br>NumPy</td>
+    <td align="center"><img alt="Matplotlib" width="48" src="https://cdn.simpleicons.org/python/3776AB"><br>Matplotlib</td>
+    <td align="center"><img alt="Data pipelines" width="48" src="https://cdn.simpleicons.org/apacheairflow/017CEE"><br>Pipelines</td>
+  </tr>
+</table>
 
 
 ## Tools
