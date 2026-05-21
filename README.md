@@ -17,7 +17,13 @@ That little project ended up opening the door to **web development, backend syst
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=py,ts,nodejs,react,nextjs,fastapi,postgres,docker,linux,git,githubactions,bash&perline=6)](https://github.com/MatSuzart)
+[![Skills](https://skillicons.dev/icons?i=py,ts,js,nodejs,react,fastapi,mysql,postgres,docker,linux,redhat,git,githubactions,bash&perline=7)](https://github.com/MatSuzart)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-017CEE?style=for-the-badge&logo=apache&logoColor=white)
+![Red Hat Linux](https://img.shields.io/badge/Red%20Hat%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
 
 ## Data and ML
 
@@ -27,10 +33,17 @@ That little project ended up opening the door to **web development, backend syst
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=vscode,github,postman,vercel,figma,powershell,windows,ubuntu&perline=6)](https://github.com/MatSuzart)
+[![Tools](https://skillicons.dev/icons?i=vscode,github,postman,vercel,figma,powershell,windows,ubuntu,aws&perline=6)](https://github.com/MatSuzart)
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
 
 ## Projects
 
